@@ -1,4 +1,5 @@
-# thalassophobia
+# thalassophobia Reborn
+Reincarnation of famous
 XML Modification for Barotrauma
 
 This is the XML Modification for Barotrauma, Thalassophobia. It attempts to add some of the flavored chaos and inherent "natural" roleplay found in other games like SS13.
